@@ -16,8 +16,15 @@ COVIDx CT
 command for importing dataset in colab
 
 '''
+
 !kaggle datasets download -d hgunraj/covidxct
 
 '''
 
 https://www.kaggle.com/datasets/c395fb339f210700ba392d81bf200f766418238c2734e5237b5dd0b6fc724fcb/versions/1
+
+Figma link 
+"""
+https://www.figma.com/file/Th2vhSwjA0jvNXvG4xxEvE/iScan?node-id=0%3A1&t=Ma9eJAGi3ifDYf1m-1
+
+"""
